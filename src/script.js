@@ -5,7 +5,7 @@ const hourlyWeatherDiv = document.querySelector(".hourly-weather .weather-list")
 const locationButton = document.querySelector(".location-button");
 
 // api key
-const API_KEY = ```"cd90207a89684fdb94522535242112"```;
+const API_KEY = YOUR_API_KEY;
 
 // weather condition codes to icons
 const weatherCodes = {
